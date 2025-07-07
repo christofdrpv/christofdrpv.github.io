@@ -1,0 +1,15 @@
+
+# Node modules
+node_modules/
+
+# Logbestanden
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code instellingen
+.vscode/
+
+# Systeembestanden
+.DS_Store
+Thumbs.db
