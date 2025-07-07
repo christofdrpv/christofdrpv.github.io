@@ -1,0 +1,11 @@
+{
+  "name": "mijn-project",
+  "version": "1.0.0",
+  "description": "Een standaard HTML/CSS/JS project",
+  "scripts": {
+    "start": "http-server ./ -o"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
